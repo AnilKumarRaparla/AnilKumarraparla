@@ -13,16 +13,13 @@ Here are some ideas to get you started:
 - 📈 Data Engineering: Analyzing and processing data for actionable insights.
 
 - 🔭 I’m currently looking for a job where I can apply my skills and grow as a developer.
-- 🌱 I’m currently learning about Power BI & 
+- 🌱 I’m currently learning about Cloud & NoSQL
 - 👯 I’m looking to collaborate on projects related to web development, cloud computing, and software engineering.
 - 🤔 I’m looking for help with advanced data engineering techniques and cloud deployment strategies.
 - 💬 Ask me about HTML, CSS,JavaScript, Core Java & Collection Framework and SQL
-- 📫 How to reach me: Email | LinkedIn
+- 📫 How to reach me: LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a tech enthusiast who loves exploring new gadgets and staying updated with the latest tech trends!
 - My Passion
 - I'm driven by a desire to solve complex problems through code. I thrive in collaborative environments where I can learn from others while contributing my own knowledge.
 - My goal is to continuously improve as a developer and engineer, while working on projects that make a difference.
-- Let's Connect:
-- LinkedIn
-- Portfolio
