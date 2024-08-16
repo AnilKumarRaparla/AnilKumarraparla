@@ -5,7 +5,7 @@ I'm a recent Computer Science graduate with a deep understanding of software eng
 Here are some ideas to get you started:
 
 
-My Interests
+- My Interests
 - 💻 Software Engineering: Building scalable and efficient software systems.
 - 🌐 Web Development: Designing and developing user-friendly web applications.
 - ☁️ Cloud Computing: Exploring AWS and Azure for deploying robust cloud solutions.
@@ -19,10 +19,9 @@ My Interests
 - 📫 How to reach me: Email | LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a tech enthusiast who loves exploring new gadgets and staying updated with the latest tech trends!
-  
-My Passion
+- My Passion
 I'm driven by a desire to solve complex problems through code. I thrive in collaborative environments where I can learn from others while contributing my own knowledge. My goal is to continuously improve as a developer and engineer, while working on projects that make a difference.
 
-Let's Connect
+Let's Connect: 
 LinkedIn
 Portfolio
