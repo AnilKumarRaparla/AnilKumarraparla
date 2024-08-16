@@ -20,3 +20,4 @@ Let's Connect
 - 📫 Reach me on LinkedIn
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a gadget geek and love keeping up with the latest tech!
+
