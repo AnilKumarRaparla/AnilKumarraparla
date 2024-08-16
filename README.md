@@ -1,5 +1,6 @@
 👋 Hi, I'm Anil Kumar Raparla!
-- I’m a Computer Science graduate with a passion for software engineering and web development. I love building scalable systems, crafting responsive websites, and exploring cloud technologies like AWS and Azure.
+- I’m a Computer Science graduate with a passion for software engineering and web development.
+- I love building scalable systems, crafting responsive websites, and exploring cloud technologies like AWS and Azure.
 - Currently, I'm on the lookout for a developer role where I can grow and make an impact.
 
 Interests
